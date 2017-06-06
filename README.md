@@ -5,7 +5,7 @@
 ##Role
 
 I'm te team leader of Ice Crew. I also did a lot of game dseign and art.
-
+![](http://imgur.com/1HvHN6t.png)
 
 
 ## What have I done?
