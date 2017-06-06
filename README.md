@@ -20,6 +20,7 @@ I'm the one who designed most of the maps and the tilesets used in them. Also I 
 
 Those are the ones that actually got to the game, but they are the result of discarting other ideas that did not work properly.
 Most of the work was done in paper before going to the pc
+
 ![](http://imgur.com/PqsibBo.png) 
 
 
